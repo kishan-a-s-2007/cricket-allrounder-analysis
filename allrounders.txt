@@ -1,0 +1,51 @@
+Player,Country,Runs,Wickets,Batting_Average,Bowling_Average,Strike_Rate,Economy,Overs_Bowled,Bowling_Type,Batting_Hand
+Jacques Kallis,South Africa,13289,292,55.37,32.65,72.20,3.84,10750,Fast Medium,Right
+Shakib Al Hasan,Bangladesh,7570,317,37.85,29.10,82.50,4.44,9200,Left Arm Spin,Left
+Ben Stokes,England,6510,213,36.17,31.20,91.40,4.91,6700,Fast Medium,Left
+Hardik Pandya,India,2800,84,34.15,35.60,111.30,5.55,2800,Fast Medium,Right
+Ravindra Jadeja,India,3370,220,35.10,24.20,85.40,4.12,8700,Left Arm Spin,Left
+Kapil Dev,India,5248,434,31.05,29.64,95.20,3.71,11200,Fast Medium,Right
+Ian Botham,England,7313,383,33.54,28.40,79.40,3.20,10800,Fast Medium,Right
+Andrew Flintoff,England,3845,226,31.77,32.78,88.20,4.42,6900,Fast,Right
+Imran Khan,Pakistan,3807,362,37.69,22.81,72.10,2.54,11500,Fast,Right
+Richard Hadlee,New Zealand,3124,431,27.16,22.29,68.40,2.63,12000,Fast,Right
+Chris Cairns,New Zealand,4950,218,33.53,29.40,84.60,4.54,7200,Fast Medium,Right
+Shaun Pollock,South Africa,3781,421,32.31,23.11,86.10,3.67,12300,Fast Medium,Right
+Daniel Vettori,New Zealand,4531,362,30.00,34.36,69.80,2.83,11300,Left Arm Spin,Left
+Rashid Khan,Afghanistan,1600,193,21.50,18.54,106.30,3.92,4200,Leg Spin,Right
+Mohammad Nabi,Afghanistan,3200,167,28.40,31.70,99.10,4.68,5100,Off Spin,Right
+Jason Holder,West Indies,2900,165,30.80,27.40,86.70,3.98,6500,Fast Medium,Right
+Andre Russell,West Indies,2400,110,27.10,29.50,130.80,8.20,2100,Fast,Right
+Dwayne Bravo,West Indies,3100,199,25.60,29.10,115.20,5.41,4900,Medium,Right
+Roston Chase,West Indies,2650,92,34.80,41.20,58.90,2.91,3900,Off Spin,Right
+Sam Curran,England,1400,89,27.50,31.40,96.80,5.02,2400,Left Arm Medium,Left
+Mitchell Marsh,Australia,3900,97,34.30,38.40,97.90,5.51,2600,Fast Medium,Right
+Marcus Stoinis,Australia,2200,61,29.10,36.90,102.80,5.82,1800,Medium,Right
+Glenn Maxwell,Australia,3950,68,33.80,47.20,125.60,5.46,1500,Off Spin,Right
+Cameron Green,Australia,1600,55,36.40,31.60,81.20,3.72,2200,Fast Medium,Right
+Mitchell Santner,New Zealand,1900,118,28.50,30.20,91.60,4.38,4700,Left Arm Spin,Left
+Colin de Grandhomme,New Zealand,2150,74,38.20,33.40,92.80,4.95,1900,Medium,Right
+Corey Anderson,New Zealand,1900,60,31.70,36.80,110.20,5.83,1700,Medium,Left
+Thisara Perera,Sri Lanka,2338,175,23.60,32.70,112.30,5.81,4600,Medium,Left
+Angelo Mathews,Sri Lanka,8167,120,45.12,33.50,82.40,3.72,3500,Medium,Right
+Chamika Karunaratne,Sri Lanka,850,44,21.30,34.20,89.10,5.11,1200,Medium,Right
+Wanindu Hasaranga,Sri Lanka,1800,181,24.60,23.80,102.70,4.87,4400,Leg Spin,Right
+Marco Jansen,South Africa,1450,95,31.50,28.90,82.10,3.98,3100,Left Arm Fast,Left
+Tillakaratne Dilshan,Sri Lanka,10290,106,39.27,35.94,86.20,4.11,3400,Off Spin,Right
+Yuvraj Singh,India,8701,111,36.55,38.10,87.60,5.10,3100,Left Arm Spin,Left
+Irfan Pathan,India,2821,173,31.57,32.26,78.60,4.47,5100,Left Arm Medium,Left
+Ravichandran Ashwin,India,3500,537,26.40,24.00,54.30,2.83,17000,Off Spin,Right
+Washington Sundar,India,900,48,28.60,30.70,86.10,4.48,1400,Off Spin,Left
+Axar Patel,India,1400,75,29.80,27.90,92.60,4.21,2800,Left Arm Spin,Left
+Chris Woakes,England,1900,181,27.10,29.80,84.20,4.56,5800,Fast Medium,Right
+Moeen Ali,England,3100,204,28.20,36.30,89.70,4.78,6100,Off Spin,Left
+Ravi Rampaul,West Indies,900,117,18.60,29.90,74.80,4.62,3900,Fast Medium,Right
+Keith Miller,Australia,2958,170,36.97,22.97,71.30,2.95,6500,Fast,Right
+Garry Sobers,West Indies,8032,235,57.78,34.03,76.50,2.88,9200,Left Arm Spin,Left
+Tony Greig,England,3599,141,40.43,32.20,74.90,3.14,4700,Medium,Right
+Carl Hooper,West Indies,5762,114,36.46,49.42,75.80,3.72,3800,Off Spin,Right
+Lance Klusener,South Africa,3576,192,41.58,29.95,89.30,4.41,5300,Fast Medium,Left
+Abdul Razzaq,Pakistan,5080,269,29.70,31.84,81.40,4.69,8100,Fast Medium,Right
+Shahid Afridi,Pakistan,8064,395,23.57,34.51,117.00,4.62,9800,Leg Spin,Right
+Shoaib Malik,Pakistan,7534,158,35.37,38.60,81.90,4.42,4300,Off Spin,Right
+Faheem Ashraf,Pakistan,1200,78,24.80,31.20,88.60,4.95,2100,Fast Medium,Left
